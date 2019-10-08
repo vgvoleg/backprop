@@ -1,0 +1,1 @@
+Back propagation by Ovcharuk Oleg
